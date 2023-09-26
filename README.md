@@ -1,7 +1,8 @@
+# React Learning Steps Component
+
 This is a React Component that is made to very briefly outline and display the steps involved in becoming a React developer.
 
-![image](https://github.com/Jensen-Jacob/react-steps-component/assets/132764387/f60dca7c-8a3b-4e51-9ea5-785b1a5ed4b1)
-
+![image](https://github.com/Jensen-Jacob/react-steps-component/assets/132764387/6e9a90ed-fd44-48d2-b004-960cb52830eb)
 
 # Getting Started with Create React App
 
