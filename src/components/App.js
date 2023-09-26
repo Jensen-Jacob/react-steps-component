@@ -51,24 +51,12 @@ function App() {
           </p>
 
           <div className="buttons">
-            {/* <button
-              style={{ backgroundColor: "#7950f2", color: "#fff" }}
-              onClick={handlePrev}
-            >
-              Previous
-            </button> */}
             <Button
               style={{ backgroundColor: "#7950f2", color: "#fff" }}
               onClick={handlePrev}
             >
               <span>👈</span> Previous
             </Button>
-            {/* <button
-              style={{ backgroundColor: "#7950f2", color: "#fff" }}
-              onClick={handleNext}
-            >
-              Next
-            </button> */}
             <Button
               style={{ backgroundColor: "#7950f2", color: "#fff" }}
               onClick={handleNext}
