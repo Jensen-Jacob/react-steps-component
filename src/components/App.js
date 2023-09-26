@@ -59,9 +59,10 @@ function App() {
             </button> */}
             <Button
               style={{ backgroundColor: "#7950f2", color: "#fff" }}
-              text={"Previous"}
               onClick={handlePrev}
-            />
+            >
+              <span>👈</span> Previous
+            </Button>
             {/* <button
               style={{ backgroundColor: "#7950f2", color: "#fff" }}
               onClick={handleNext}
@@ -72,7 +73,9 @@ function App() {
               style={{ backgroundColor: "#7950f2", color: "#fff" }}
               onClick={handleNext}
               text={"Next"}
-            />
+            >
+              Next <span>👉</span>
+            </Button>
           </div>
         </div>
       )}
