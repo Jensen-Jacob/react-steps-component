@@ -11,7 +11,7 @@ To get started, first download the files and run the "npm i" command in the term
 # Usage
 
 You can use the component by clicking on the next/previous buttons. Doing so will show the next/previous step involved in becoming a React developer respectively.
-You may also close the component entirely by clicking on the close("X") button. Clicking on the same button again will re-open the component.
+You may also close the component entirely by clicking on the close ("X") button. Clicking on the same button again will re-open the component.
 
 # Available Scripts
 
