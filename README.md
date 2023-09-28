@@ -4,7 +4,7 @@ This is a React Component that is made to very briefly outline and display the s
 
 ![image](https://github.com/Jensen-Jacob/react-steps-component/assets/132764387/6e9a90ed-fd44-48d2-b004-960cb52830eb)
 
-# Getting Started with Create React App
+# Getting Started
 
 To get started, first download the files and run the "npm i" command in the terminal to install all the dependencies.
 
